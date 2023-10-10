@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stop_and_wait_SERVER",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stop_and_wait_SERVER::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stop_and_wait_SERVER-Debug-50fb0989604ed1b5459f.json",
+					"name" : "stop_and_wait_SERVER",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wilson/Documents/courses/1111/data communication/Experiment-7/stop-and-wait-SERVER/cmake-build-debug",
+		"source" : "/home/wilson/Documents/courses/1111/data communication/Experiment-7/stop-and-wait-SERVER"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

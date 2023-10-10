@@ -1,0 +1,3 @@
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/udp_server/cmake-build-debug/CMakeFiles/udp_server.dir
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/udp_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/udp_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

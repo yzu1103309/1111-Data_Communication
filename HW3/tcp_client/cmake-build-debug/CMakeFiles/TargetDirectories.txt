@@ -1,0 +1,3 @@
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/tcp_client/cmake-build-debug/CMakeFiles/tcp_client.dir
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/tcp_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wilson/Documents/courses/1111/data communication/Experiment-6/tcp_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

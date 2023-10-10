@@ -1,0 +1,21 @@
+# ninja log v5
+0	302	1671609743668959814	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+304	411	1671609743776961988	stop_and_wait_CLIENT	bb13301bf727deb2
+1	191	1671639899200302535	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+191	268	1671639899276304818	stop_and_wait_CLIENT	bb13301bf727deb2
+0	226	1671640321847541948	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+227	323	1671640321943544308	stop_and_wait_CLIENT	bb13301bf727deb2
+1	186	1671640681921570917	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+186	287	1671640682021572646	stop_and_wait_CLIENT	bb13301bf727deb2
+1	326	1671679652077736849	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+326	456	1671679652209736807	stop_and_wait_CLIENT	bb13301bf727deb2
+1	318	1671679759534498485	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+318	450	1671679759666502527	stop_and_wait_CLIENT	bb13301bf727deb2
+1	328	1671680092172709932	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+328	469	1671680092312711456	stop_and_wait_CLIENT	bb13301bf727deb2
+1	323	1671680719320642635	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+323	465	1671680719460643218	stop_and_wait_CLIENT	bb13301bf727deb2
+1	289	1671680972508555093	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+289	411	1671680972628558803	stop_and_wait_CLIENT	bb13301bf727deb2
+0	308	1671681085595782862	CMakeFiles/stop_and_wait_CLIENT.dir/client.cpp.o	38e8baf2d2fbaf55
+308	429	1671681085711785919	stop_and_wait_CLIENT	bb13301bf727deb2
